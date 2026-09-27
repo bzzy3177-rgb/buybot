@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: python wizard_scan_bot.py
